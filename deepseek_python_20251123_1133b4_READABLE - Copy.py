@@ -10450,8 +10450,7 @@ class DeepSeek:
         except Exception as e:
             logger.debug(f"Scan {network}: {e}")
 
-    logger.info(f"📊 SCAN COMPLETE: {self.scan_count} scans, {self.exploited_count} exploited")
-
+    logger.info("📊 SCAN COMPLETE: Scans complete, exploitation phase active")
 
     def _parse_scan_results(self, output_file, port, masscan_pid):
         """Background: Parse masscan output + exploit Redis"""
