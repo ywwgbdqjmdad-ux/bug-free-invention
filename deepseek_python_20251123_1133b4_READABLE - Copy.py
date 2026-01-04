@@ -9326,7 +9326,7 @@ class AutonomousScheduler:
         self.last_rival_kill_time = 0  # NEW: Rival killer scheduling
         self.last_wallet_check = 0  # NEW: Wallet rotation checks
         
-    def start_autonomous_operation(self):
+    def startautonomousoperations(self):
         logger.info("Starting autonomous operation scheduler...")
         self.is_running = True
         
