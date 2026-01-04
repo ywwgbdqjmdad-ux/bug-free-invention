@@ -9394,7 +9394,7 @@ class AutonomousScheduler:
         logger.info("Performing startup tasks...")
         
         # Check if miner is running, start if not
-        if self.xmrig_manager.mining_status != "running":
+        if self.xmrig_manager and self.xmrig_manager.mining_status != 'running':
             logger.info("Starting XMRig miner on startup...")
             
             # Get wallet from rotation pool
