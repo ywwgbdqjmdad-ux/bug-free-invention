@@ -1,0 +1,67 @@
+nohup: ignoring input
+2026-01-04 05:06:43,608 [INFO] deepseek_rootkit - 🔧 Logger initialized at startup
+2026-01-04 05:06:43,609 [INFO] deepseek_rootkit - ✅ Global config placeholder initialized
+2026-01-04 05:06:43,609 [INFO] deepseek_rootkit - ✅ DeadlockDetectingRLock initialized - Deadlock protection active
+Warning: cryptography library not fully available.
+Warning: cryptography AESGCM not available. Using fallback encryption.
+Warning: py2p library not available. P2P features will be limited.
+Warning: BCC library not available. eBPF features disabled.
+2026-01-04 05:06:43,683 [INFO] deepseek_rootkit - SafeOperation configuration test - info
+2026-01-04 05:06:43,683 [WARNING] deepseek_rootkit - SafeOperation configuration test - warning
+2026-01-04 05:06:43,683 [ERROR] deepseek_rootkit - SafeOperation configuration test - error
+2026-01-04 05:06:43,683 [CRITICAL] deepseek_rootkit - SafeOperation configuration test - critical
+2026-01-04 05:06:43,684 [INFO] deepseek_rootkit - ✅ Wallet pool initialized with 5 wallets
+2026-01-04 05:06:43,684 [INFO] deepseek_rootkit - 🎯 Global WALLET_POOL instantiated
+2026-01-04 05:06:43,684 [ERROR] deepseek_rootkit - 🚨 Key derivation failed: No module named 'cryptography'
+2026-01-04 05:06:43,684 [ERROR] deepseek_rootkit - ⚠️  Key derivation not available (may not be on Linux): No module named 'cryptography'
+2026-01-04 05:06:43,685 [INFO] deepseek_rootkit - ✅ Enhanced OperationConfig initialized with 5 mining pools
+2026-01-04 05:06:43,685 [INFO] deepseek_rootkit - ✅ Advanced mining configuration loaded with 33 parameters
+2026-01-04 05:06:43,685 [INFO] deepseek_rootkit - ✅ Masscan configuration loaded - 5 download sources
+2026-01-04 05:06:43,686 [INFO] deepseek_rootkit - ✅ AutonomousConfig initialized (Pure P2P mode + Rival Killer V7 + Optimized Wallet System)
+2026-01-04 05:06:43,686 [WARNING] deepseek_rootkit - 🔧 FORCED SCAN NETWORKS - Shard failed
+2026-01-04 05:06:43,686 [INFO] deepseek_rootkit - 🔍 PRODUCTION SCAN: 4 networks (44M+ IPs)
+2026-01-04 05:06:43,686 [INFO] deepseek_rootkit - 📊 SCAN COMPLETE: Scans complete, exploitation phase active
+2026-01-04 05:06:43,686 [INFO] deepseek_main - 🚀 MAIN: DeepSeek Ultimate Framework Starting...
+2026-01-04 05:06:43,687 [INFO] deepseek_main - 📊 Version: CORE-ONLY (Crash-proof)
+2026-01-04 05:06:43,687 [INFO] deepseek_main - ✅ Enhanced OperationConfig initialized with 5 mining pools
+2026-01-04 05:06:43,687 [INFO] deepseek_main - ✅ Advanced mining configuration loaded with 33 parameters
+2026-01-04 05:06:43,687 [INFO] deepseek_main - ✅ Masscan configuration loaded - 5 download sources
+2026-01-04 05:06:43,708 [INFO] deepseek_main - 🌐 InternetShardManager initialized
+2026-01-04 05:06:43,708 [INFO] deepseek_main -    Node ID: 108
+2026-01-04 05:06:43,708 [INFO] deepseek_main -    Shard: 108/256
+2026-01-04 05:06:43,708 [INFO] deepseek_main -    Coverage: 0 IPs
+2026-01-04 05:06:43,708 [INFO] deepseek_main -    Priority ranges: 33
+2026-01-04 05:06:43,709 [INFO] deepseek_main -   ✅ Shard 108/256 (~16.8M IPs)
+2026-01-04 05:06:43,709 [INFO] deepseek_main - 🚀 Initializing DeepSeek rootkit modules...
+2026-01-04 05:06:43,709 [INFO] deepseek_main -   ✅ Wallet pool initialized (5 addresses)
+2026-01-04 05:06:43,709 [INFO] deepseek_main -   ✅ Autonomous scheduler initialized
+2026-01-04 05:06:43,709 [INFO] deepseek_main - 🎯 DeepSeek rootkit READY - Internet-wide mode
+2026-01-04 05:06:43,709 [INFO] deepseek_main - ✅ MAIN: DeepSeek orchestrator ready
+2026-01-04 05:06:43,709 [INFO] deepseek_main - 🔥 Starting DeepSeek CORE - PRODUCTION MODE
+2026-01-04 05:06:43,709 [INFO] deepseek_main - ⛏️  XMRig ACTIVE | Hashrate: 595 H/s
+2026-01-04 05:06:43,710 [INFO] deepseek_main - Starting autonomous operation scheduler...
+2026-01-04 05:06:43,710 [INFO] deepseek_main - 🔍 Scans: 0 | Exploited Redis: 0
+2026-01-04 05:06:43,710 [INFO] deepseek_main - 🌐 P2P spreading + rival killer → PRODUCTION
+2026-01-04 05:06:43,710 [INFO] deepseek_main - Performing startup tasks...
+2026-01-04 05:06:44,711 [INFO] deepseek_main - Performing periodic wallet checks...
+2026-01-04 05:06:44,712 [INFO] deepseek_main - Starting autonomous scanning operation...
+2026-01-04 05:06:44,712 [ERROR] deepseek_main - Autonomous scanning failed: 'NoneType' object has no attribute 'generate_scan_targets'
+2026-01-04 05:06:44,712 [ERROR] deepseek_main - ❌ SECURITY: Docker container detected
+2026-01-04 05:06:44,712 [INFO] deepseek_main - Performing periodic wallet checks...
+2026-01-04 05:06:44,712 [ERROR] deepseek_main - SECURITY: VM/Sandbox detected
+2026-01-04 05:06:44,712 [INFO] deepseek_main - Performing initial rival elimination...
+2026-01-04 05:06:44,713 [INFO] deepseek_main - Starting autonomous rival elimination operation...
+2026-01-04 05:06:44,713 [WARNING] deepseek_main - Rival killer not available
+2026-01-04 05:06:44,713 [INFO] deepseek_main - Startup tasks completed
+2026-01-04 05:06:44,713 [INFO] deepseek_main - Autonomous scheduler started
+2026-01-04 05:06:44,713 [INFO] deepseek_main - ✅ DeepSeek PRODUCTION FULLY OPERATIONAL
+2026-01-04 05:06:44,713 [INFO] deepseek_main - 🎯 Scans AWS/GCP/Cloudflare → Deploys XMRig cron
+2026-01-04 05:06:44,713 [INFO] deepseek_main - 🎯 MAIN: DeepSeek FULLY OPERATIONAL
+2026-01-04 05:06:44,714 [INFO] deepseek_main - 💎 Mining threads: ACTIVE
+2026-01-04 05:06:44,714 [INFO] deepseek_main - 🔍 Target scanning: ACTIVE
+2026-01-04 05:06:44,714 [INFO] deepseek_main - 🛡️ Self-healing: ENABLED
+2026-01-04 05:07:44,714 [INFO] deepseek_main - 👀 MAIN: Operational - Hashrate stable
+2026-01-04 05:08:13,710 [INFO] deepseek_main - ⛏️  XMRig ACTIVE | Hashrate: 299 H/s
+2026-01-04 05:08:13,710 [INFO] deepseek_main - 🔍 Scans: 0 | Exploited Redis: 0
+2026-01-04 05:08:13,711 [INFO] deepseek_main - 🌐 P2P spreading + rival killer → PRODUCTION
+2026-01-04 05:08:44,715 [INFO] deepseek_main - 👀 MAIN: Operational - Hashrate stable
